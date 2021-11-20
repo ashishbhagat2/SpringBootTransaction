@@ -4,7 +4,7 @@ import com.javatechie.tx.entity.PassengerInfo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+// Changes made through Github
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
